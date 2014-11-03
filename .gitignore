@@ -1,0 +1,12 @@
+# Mac
+.DS_Store
+
+# Cache and logs
+/logs/*
+/tmp/*
+
+#sublime conf
+/derechef.sublime-*
+
+#config/pwd
+/framework/config.php
